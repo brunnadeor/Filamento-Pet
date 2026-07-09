@@ -112,7 +112,6 @@ do termopar).
 ## Arquivos do Repositório
 
 - `extrusora_pet.ino` — código-fonte
-- `/docs` — documentação e esquemático
 - `/fotos` — imagens da montagem
 
 ---
